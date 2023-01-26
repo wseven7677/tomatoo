@@ -6,7 +6,7 @@ const program = new Command();
 program.version('0.1.0');
 program
   .command('start')
-  .description('start a tomato')
+  .description('start a 25 minutes timer')
   .action(() => {
     commandStart();
   });

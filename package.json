@@ -1,5 +1,5 @@
 {
-  "name": "tomato",
+  "name": "tomatoo",
   "version": "0.1.0",
   "description": "a pomodoro cli tool",
   "main": "index.js",
@@ -7,10 +7,12 @@
     "pack": "tsc"
   },
   "bin": {
-    "tomato": "dist/index.js"
+    "tomato": "dist/index.js",
+    "tomatoo": "dist/index.js"
   },
   "keywords": [
     "tomato",
+    "tomatoo",
     "clock",
     "timer",
     "cli",

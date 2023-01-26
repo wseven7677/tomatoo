@@ -1,17 +1,20 @@
-# 🍅 TOMATO
+# 🍅 TOMATOO
 > a pomodoro cli tool
 
 node 14.17.2｜pnpm 6.22.2
 
 ## Install
 ```
-npm install -g xxx // TODO
+npm install -g tomatoo
 ```
+*Considering the problem of duplicate names, the name is tomatoo
 
 ## Usage
 
 ```
 tomato start
+or
+tomatoo start
 ```
 
 ## Develop
