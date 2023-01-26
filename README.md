@@ -40,4 +40,7 @@ tomatoo start
 ```
 ## Publish
 
-// TODO
+```
+npm login
+npm publish
+```
