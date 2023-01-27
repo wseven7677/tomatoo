@@ -2,7 +2,7 @@
 import { Command } from 'commander';
 import commandStart from './commands/start.js';
 const program = new Command();
-program.version('0.1.0');
+program.version('0.1.2');
 program
     .command('start')
     .description('start a 25 minutes timer')
