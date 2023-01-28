@@ -17,6 +17,9 @@
   ],
   "author": "wseven7677",
   "license": "ISC",
+  "engines": {
+    "node": ">=14.17.2"
+  },
   "main": "index.js",
   "scripts": {
     "pack": "tsc"
